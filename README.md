@@ -14,6 +14,7 @@ Il remplace le fichier Word qui circulait par e-mail. Il se lit directement sur 
 - [Fermer le local](fermer-le-local.md)
 - [En cas de problème](en-cas-de-probleme.md)
 - [Consignes sanitaires](consignes-sanitaires-2021.md)
+- [Contacts](contacts.md)
 
 ## Horaires des permanences
 
