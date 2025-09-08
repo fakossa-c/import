@@ -21,3 +21,12 @@ Il remplace le fichier Word qui circulait par e-mail. Il se lit directement sur 
 - Mercredi : 14 h - 19 h
 - Vendredi : 17 h - 21 h
 - Samedi : 9 h - 18 h
+
+## Modifier ce guide
+
+Une règle : une branche par changement, jamais de modification directe sur `main`. Ce qui est sur `main` est ce que les bénévoles lisent.
+
+1. Créez une branche depuis `main`, avec un nom qui dit ce qu'elle change.
+2. Faites vos modifications, avec des messages de commit qui disent ce qui change.
+3. Ouvrez une pull request vers `main`, et fusionnez-la une fois relue.
+4. Supprimez la branche.
