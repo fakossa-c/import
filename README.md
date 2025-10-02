@@ -20,7 +20,7 @@ Il remplace le fichier Word qui circulait par e-mail. Il se lit directement sur 
 
 - Mercredi : 14 h - 19 h
 - Vendredi : 17 h - 21 h
-- Samedi : 9 h - 18 h
+- Samedi : 9 h 30 - 18 h
 
 ## Modifier ce guide
 
